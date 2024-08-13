@@ -1,0 +1,1 @@
+export { Exercise as default } from '@/scopes/Exercise/layouts/Exercise/Exercise';

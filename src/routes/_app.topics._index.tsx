@@ -1,0 +1,1 @@
+export { Topics as default, meta } from '@/scopes/Topics/pages/Topics/Topics';

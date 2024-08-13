@@ -1,0 +1,1 @@
+export { Topics as default } from '@/scopes/Topics/layouts/Topics/Topics';

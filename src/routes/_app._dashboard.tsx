@@ -1,0 +1,1 @@
+export { Dashboard as default } from '@/scopes/Dashboard/layouts/Dashboard/Dashboard';

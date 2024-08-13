@@ -1,0 +1,1 @@
+export { Exercise as default, meta } from '@/scopes/Exercise/pages/Exercise/Exercise';
