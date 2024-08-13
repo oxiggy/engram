@@ -9,6 +9,6 @@ export const meta: MetaFunction = () => {
 
 export function Topics() {
   return (
-    <div>Topics</div>
+    <div className='w-full h-full'>Topics</div>
   );
 }
